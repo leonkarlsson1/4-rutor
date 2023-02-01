@@ -1,0 +1,19 @@
+body{
+    display: grid;
+    height: 100vh;
+    width: 100vw;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+}
+main{
+    background-color: green;
+}
+footer{
+    background-color: aqua;
+}
+nav{
+    background-color: red;
+}
+header{
+    background-color: black;
+}
